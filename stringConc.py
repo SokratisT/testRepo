@@ -18,8 +18,10 @@ def fast(a, b, c, d):
 
 yappi.start(builtins=True, profile_threads=True)
 
+print "The slow: "
 slow(a, b, c, d)
 
+print "The fast: "
 fast(a, b, c, d)
 
 yappi.stop()   
