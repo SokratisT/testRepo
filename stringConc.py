@@ -2,10 +2,10 @@ import yappi
 import sys
 import datetime
 
-a = "Sok"
-b = "Tsak"
+a = "Lok"
+b = "Lsak"
 c = "Lok"
-d = "Fok"
+d = "Looook"
 e = "Yikes"
 
 yappi.set_clock_type('cpu')
