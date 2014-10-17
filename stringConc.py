@@ -6,8 +6,8 @@ import yappi
 import sys
 import datetime
 
-a = "Lok"
-b = "Lsak"
+a = "AAA"
+b = "BBB"
 c = "Lok"
 d = "Looook"
 e = "Yikes"
