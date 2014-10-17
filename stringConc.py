@@ -7,10 +7,10 @@ import yappi
 import sys
 import datetime
 
-a = "Lok"
-b = "Lsak"
-c = "Lok"
-d = "Looook"
+a = "AAA"
+b = "BBB"
+c = "CCC"
+d = "DDD"
 e = "Yikes"
 f = "POL"
 
