@@ -32,6 +32,8 @@ fast(a, b, c, d)
 
 print "you"
 
+print "&"
+
 print "me"
 
 #yappi.stop()   
