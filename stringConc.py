@@ -29,6 +29,8 @@ slow(a, b, c, d)
 print "The fast is: "
 fast(a, b, c, d)
 
+print "you"
+
 print "me"
 
 #yappi.stop()   
