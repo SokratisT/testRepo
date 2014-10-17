@@ -8,8 +8,8 @@ import datetime
 
 a = "AAA"
 b = "BBB"
-c = "Lok"
-d = "Looook"
+c = "CCC"
+d = "DDD"
 e = "Yikes"
 f = "POL"
 
