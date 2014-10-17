@@ -1,5 +1,6 @@
 """
 string conc test
+master and branches
 """
 
 import yappi
@@ -28,6 +29,12 @@ slow(a, b, c, d)
 
 print "The fast is: "
 fast(a, b, c, d)
+
+print "you"
+
+print "&"
+
+print "me"
 
 #yappi.stop()   
 #yappi.get_func_stats().print_all()
